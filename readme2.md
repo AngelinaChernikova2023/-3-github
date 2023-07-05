@@ -24,6 +24,8 @@ git push -u origin main
 7. Для получения изменений из удаленного репозитория используется команда `git pull`
 
 
+Для получения изменений из удаленного репозитория используется команда `git pull`
+
 `git remote add ` <имя для репозитория> https://github.com/AngelinaChernikova2023/Git-seminar-3
 
 ```
