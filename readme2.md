@@ -7,6 +7,15 @@ https://github.com/
 
 ![Logo](skrin_repozitoriya.png)
 
+В терминале используйте предложенные команды
+
+git remote add origin https://github.com/AngelinaChernikova2023/-3-github.git
+
+git branch -M main (переименовывает ветку мастер в ветку майн)
+
+git push -u origin main
+
+
 4. Связать удаленный репозиторий с локальным.
 6. Добавить удаленный репозиторий к проекту.
 `git remote add ` <имя для репозитория> https://github.com/AngelinaChernikova2023/Git-seminar-3
