@@ -3,6 +3,10 @@
 https://github.com/
 2. Создать локальный репозиторий
 3. Создать удаленный репозиторий
+Создать на сайте https://github.com/ репозиторий 
+
+![Logo](skrin_repozitoriya.png)
+
 4. Связать удаленный репозиторий с локальным.
 6. Добавить удаленный репозиторий к проекту.
 `git remote add ` <имя для репозитория> https://github.com/AngelinaChernikova2023/Git-seminar-3
